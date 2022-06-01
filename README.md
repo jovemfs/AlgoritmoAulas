@@ -5,8 +5,8 @@
 
 <div align="center">
   
-<img src="https://64.media.tumblr.com/4ac57db98021ffd3a4e6717dee097802/aa44282323a3c36a-66/s500x750/727356ce2f1c9fdf07998fcd735c32d83e30f05d.gifv" width="486px">
-<img src="https://i.pinimg.com/originals/80/77/0d/80770df3328514173547eef6888a817a.gif" width="490px">
+<img src="https://64.media.tumblr.com/4ac57db98021ffd3a4e6717dee097802/aa44282323a3c36a-66/s500x750/727356ce2f1c9fdf07998fcd735c32d83e30f05d.gifv" width="410px">
+<img src="https://i.pinimg.com/originals/75/77/b7/7577b71b1fa613d0032e31fbafb0bdcc.gif" height="309px">
   
 </div><br>
 
